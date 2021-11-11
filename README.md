@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Daniel Barrio
+- 👀 I’m interested in AI and videogames development
+- 🌱 I’m currently working on Softtek and learning Machine Learning with Python and Unreal Engine
+- 📫 You can contact me via mail at daniel.barrio.aguilera@gmail.com
